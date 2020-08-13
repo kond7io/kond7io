@@ -1,5 +1,5 @@
 # Hi, See What I'm Working On! :computer:
-
+* React Native, Redux, Redux-Saga
 
 
 ### Let's talk 💬
