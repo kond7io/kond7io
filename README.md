@@ -1,5 +1,11 @@
-## Hi, See What I'm Working On! :computer:
+# Hi, See What I'm Working On! :computer:
 
 
-# Let's talk 💬 
-[LinkedIn](https://www.linkedin.com/in/konrad-walentek-232943192/)
+
+### Let's talk 💬
+[<img align="left" alt="kond7io" width="22px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
+[<img align="left" alt="kond7io" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
+<br/ >
+<br/ >
+[linkedin]: https://www.linkedin.com/in/konrad-walentek/
+[facebook]: https://www.facebook.com/konrad.walentek
