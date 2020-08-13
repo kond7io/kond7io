@@ -1,4 +1,4 @@
-### Here is What I'm Working On! 👋
+## Hi, See What I'm Working On! 👋
 
 
 [LinkedIn](https://www.linkedin.com/in/konrad-walentek-232943192/)
