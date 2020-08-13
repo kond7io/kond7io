@@ -1,8 +1,7 @@
-### Hi there 👋
+### Here is What I'm Working On! 👋
 
-<!--
-**kond7io/kond7io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[LinkedIn])(https://www.linkedin.com/in/konrad-walentek-232943192/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
