@@ -1,7 +1,7 @@
 ### Here is What I'm Working On! 👋
 
 
-[LinkedIn])(https://www.linkedin.com/in/konrad-walentek-232943192/)
+[LinkedIn](https://www.linkedin.com/in/konrad-walentek-232943192/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
