@@ -9,5 +9,5 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/konrad-walentek/
+[linkedin]: https://www.linkedin.com/konrad-walentek/
 [facebook]: https://www.facebook.com/konrad.walentek
