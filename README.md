@@ -1,5 +1,10 @@
 # Hi, See What I'm Working On! :computer:
-* React Native, Redux, Redux-Saga
+### React Native, Redux, Redux-Saga
+* creating shopping lists that can be shared with other users of the group
+* adding new products to the database
+* labeling consumed products
+* the current condition of the products
+* notifications
 
 <img align="left" src="https://github.com/kond7io/kond7io/blob/master/gif1.gif?raw=true">
 <img  align='left' src="https://github.com/kond7io/kond7io/blob/master/gif2.gif?raw=true"> ... in progress
