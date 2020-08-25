@@ -1,7 +1,7 @@
 # Hi, See What I'm Working On! :computer:
 ### React Native, Redux, Redux-Saga
 * creating shopping lists that can be shared with other users of the group
-* adding new products to the database
+* adding new products to the database also via barcode scanner
 * labeling consumed products
 * the current condition of the products
 * product price statistics
