@@ -4,6 +4,7 @@
 * adding new products to the database
 * labeling consumed products
 * the current condition of the products
+* product price statistics
 * notifications
 
 <img align="left" src="https://github.com/kond7io/kond7io/blob/master/gif1.gif?raw=true">
