@@ -1,4 +1,4 @@
-# Hi, Let's talk [<img alt="kond7io" width="50px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]    [<img alt="kond7io" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
+# Hi, Let's talk [<img alt="kond7io" width="35px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]    [<img alt="kond7io" width="35px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
 
 # See What I'm Working On! :computer:
 ### React Native, Redux, Redux-Saga
