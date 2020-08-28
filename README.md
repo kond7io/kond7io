@@ -11,7 +11,7 @@
 
 
 <img align='left' src="https://github.com/kond7io/kond7io/blob/master/gif1.gif?raw=true">
-<img  src="https://github.com/kond7io/kond7io/blob/master/gif2.gif?raw=true"> ... in progress
+<img align='left' src="https://github.com/kond7io/kond7io/blob/master/gif2.gif?raw=true"> ... in progress
 
 
 [linkedin]: https://www.linkedin.com/in/konrad-walentek/
