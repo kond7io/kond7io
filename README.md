@@ -7,11 +7,10 @@
 * product price statistics
 * notifications
 
-[
+
 <img  src="https://github.com/kond7io/kond7io/blob/master/gif1.gif?raw=true">
-<img  src="https://github.com/kond7io/kond7io/blob/master/gif2.gif?raw=true"> 
-<h3 >... in progress</h3>
-]
+<img  src="https://github.com/kond7io/kond7io/blob/master/gif2.gif?raw=true"> ... in progress
+
 # Let's talk 💬
 [<img alt="kond7io" width="50px" src="https://lh3.googleusercontent.com/fqYJHtyzZzA4vacRzeJoB93QNvA5-mvR-8UB5oVLxdYDSTpfLp_KgYD4IqVGJUgFEJo" />][linkedin]
 [<img alt="kond7io" width="50px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-512.png" />][facebook]
